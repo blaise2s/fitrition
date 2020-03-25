@@ -1,0 +1,15 @@
+.container {
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.name-input {
+  padding: 0.5rem;
+}
